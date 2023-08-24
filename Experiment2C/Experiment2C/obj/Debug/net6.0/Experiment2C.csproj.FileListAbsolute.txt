@@ -1,0 +1,15 @@
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\bin\Debug\net6.0\Experiment2C.exe
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\bin\Debug\net6.0\Experiment2C.deps.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\bin\Debug\net6.0\Experiment2C.runtimeconfig.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\bin\Debug\net6.0\Experiment2C.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\bin\Debug\net6.0\Experiment2C.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.AssemblyInfo.cs
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\refint\Experiment2C.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\Experiment2C.genruntimeconfig.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2C\Experiment2C\obj\Debug\net6.0\ref\Experiment2C.dll
